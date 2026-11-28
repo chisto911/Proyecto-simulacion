@@ -2,7 +2,7 @@
 
 Aplicativo interactivo en **R Shiny** desarrollado para la materia de **Simulación** de la Escuela Politécnica Nacional (Facultad de Ciencias). Integra la generación de números pseudoaleatorios, la integración por Montecarlo, la generación de variables aleatorias discretas y continuas, y las pruebas de bondad de ajuste, implementando los algoritmos desde sus fundamentos (Ross, *Simulación*, capítulos 3 a 5).
 
-- **Aplicación publicada:** `https://<usuario>.shinyapps.io/<nombre_app>` *(completar al publicar)*
+- **Aplicación publicada:** <https://12345asdqwe.shinyapps.io/proyecto-simu/>
 - **Código fuente:** este repositorio
 
 ## Contenido del aplicativo
